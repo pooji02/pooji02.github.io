@@ -61,32 +61,33 @@ header {
   font-weight: 300;
   margin-bottom: 4em;
   text-align: center;
-  height: 300px;
+  height: 700px;
  
 }
 
 header h1 {
-  color: white;
-  font-size: 2em;
+  color: #99FFCC;
+  font-size: .2em;
   margin: -20px;
   letter-spacing: 1px;
   opacity: 1;
   text-shadow: 0 3px 0 rgba(0,0,0, 0.5);
   top: 370px;
   font-weight: 700;
-  margin-top:-20px;
+  margin-top:20px;
+
 }
 
 header img {
-   width: 300px;
-    height: 300px;
+   width: 150px;
+    height: 150px;
   margin-top:60px;
   border-radius:50%;
   padding: 20;
 }
 
 header p {
-  color: #fff;
+  color: #009999;
   font-size: 1.1em;
   padding-bottom: 1.3em;
   padding-top: 1.5em;
